@@ -1,4 +1,4 @@
-# 🌐 Portfólio - Manuela Lucia
+# 🌐 Portfólio - Manuela Castro
 
 Este repositório contém meu portfólio pessoal, acadêmico e profissional.
 
@@ -21,4 +21,4 @@ Os projetos apresentados neste portfólio foram desenvolvidos durante minha grad
 Estou em busca da minha primeira oportunidade na área de desenvolvimento.
 
 ## 📁 Portfólio Online
-🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392513014/)
+🔗 [Acesse o Portfólio](https://manuelalemes.github.io/ManuelaPortfolio/)
